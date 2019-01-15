@@ -5,4 +5,4 @@ To export your own Library.xml from iTunes:
 
 File -> Library -> Export Library (Make sure to save it in the correct folder)
 
-Note: iTUnes might change UI and/or export format any time!
+Note: iTunes might change UI and/or export format any time!
